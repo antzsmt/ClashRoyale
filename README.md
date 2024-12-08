@@ -1,7 +1,9 @@
 # ClashRoyale (2017)
 [![clash royale](https://img.shields.io/badge/Clash%20Royale-1.9.2-brightred.svg?style=flat")](https://clash-royale.en.uptodown.com/android/download/1632865)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Build Status](https://action-badges.now.sh/retroroyale/ClashRoyale)
+[![GitHub issues](https://img.shields.io/github/issues/antzsmt/ClashRoyale)](https://github.com/antzsmt/ClashRoyale/issues)
+[![GitHub forks](https://img.shields.io/github/forks/antzsmt/ClashRoyale)](https://github.com/antzsmt/ClashRoyale/network)
+[![GitHub stars](https://img.shields.io/github/stars/antzsmt/ClashRoyale)](https://github.com/antzsmt/ClashRoyale/stargazers)
 
 #### A .NET Core Clash Royale Server (v1.9)
 ##### If you want to test the current build you can download [this](https://retroroyale.xyz) client.
